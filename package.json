@@ -257,7 +257,7 @@
     "minimatch": "^3.0.0",
     "optimist": "^0.6.1",
     "rimraf": "^2.3.3",
-    "socket.io": "git://github.com/socketio/socket.io-client.git#6580a7f9b50be02c70efe308f7d80501c8d6379b",
+    "socket.io": "git://github.com/socketio/socket.io.git#7b0073c00f3ee775e8d65066e3f435406257acc9",
     "source-map": "^0.5.3",
     "useragent": "^2.1.6"
   },
